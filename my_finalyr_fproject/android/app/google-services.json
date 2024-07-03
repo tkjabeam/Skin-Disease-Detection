@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171993027041",
+    "project_id": "derma-plus",
+    "storage_bucket": "derma-plus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171993027041:android:ee352965ccbf1e5b28c2a0",
+        "android_client_info": {
+          "package_name": "com.example.my_finalyr_fproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8dUqlYH8UutiQ4VoTSITfnuCXbVPvjqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
